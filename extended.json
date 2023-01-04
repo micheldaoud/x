@@ -1,0 +1,39 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/microsoft/319/smiling-face-with-tear_1f972.png",
+    "url_png_logo": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/microsoft/319/smiling-face-with-tear_1f972.png",
+    "location": "Canada, NA",
+    "social": {
+      "twitter_handle": "69ingMonkeys_",
+      "telegram_handle": "Monkeyzzz",
+      "facebook_handle": "",
+      "youtube_handle": "69ingMonkeys",
+      "twitch_handle": "69ingMonkeys",
+      "discord_handle": "69ingMonkeys#3471",
+      "github_handle": ""
+    },
+    "company": {
+      "name": "",
+      "addr": "",
+      "city": "",
+      "country": "",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "",
+      "server": "",
+      "company": ""
+    },
+    "rss": ""
+  },
+  "telegram-admin-handle": [
+    "Monkeyzzz"
+  ],
+  "my-pool-ids": [
+    "3e83527db3abcd7c819899523e60d74bc7f6981c9c06fe09a46e23a3"
+  ],
+  "when-satured-then-recommend": [
+    "3e83527db3abcd7c819899523e60d74bc7f6981c9c06fe09a46e23a3"
+  ]
+}
